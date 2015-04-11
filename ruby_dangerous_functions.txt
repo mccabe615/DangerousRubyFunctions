@@ -1,0 +1,18 @@
+[file operations]
+File.open	#
+
+[meta-programming]
+.send		#
+constantize	#
+
+[command execution]
+eval		#
+System		#
+`			#
+Kernel.exec	#
+%x			#
+
+[SQL injection]
+ActiveRecord::Base.connection.execute #
+find_by_sql				#
+connection.select_all	#
