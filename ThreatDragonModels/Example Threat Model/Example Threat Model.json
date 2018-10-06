@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Example Threat Model",
+    "owner": "Michael McCabe",
+    "description": "An example application."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Michael McCabe"
+  }
+}
